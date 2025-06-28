@@ -37,3 +37,4 @@ The **AMC Receipt Details Web Application** is a secure, centralized platform fo
 - MySQL >= 8.x
 - npm or yarn
 
+# base-host
