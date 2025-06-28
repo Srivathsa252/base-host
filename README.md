@@ -38,3 +38,4 @@ The **AMC Receipt Details Web Application** is a secure, centralized platform fo
 - npm or yarn
 
 # base-host
+# base-1
